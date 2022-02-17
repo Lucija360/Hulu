@@ -21,6 +21,6 @@ function Header() {
             height={100}
             />
         </header>
-    )
+    );
 }
 export default Header;
